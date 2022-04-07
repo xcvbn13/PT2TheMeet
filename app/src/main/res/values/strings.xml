@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FJB Telyu</string>
+    <string name="Home">Home</string>
+    <string name="Search">Search</string>
+    <string name="notif">Notif</string>
+    <string name="person">Person</string>
+    <string name="hello_world">Hello World</string>
 </resources>
