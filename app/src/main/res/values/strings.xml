@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FJB Telyu app</string>
+    <string name="page_title">FJB Telyu App</string>
     <string name="home">Home</string>
     <string name="search">Search</string>
     <string name="notif">Notif</string>
@@ -10,5 +10,5 @@
     <string name="notif_fragment">Notif Fragment</string>
     <string name="person_fragment">Person Fragment</string>
     <string name="search_fragment">Search Fragment</string>
-    <string name="page_title">FJB Telyu</string>
+
 </resources>
