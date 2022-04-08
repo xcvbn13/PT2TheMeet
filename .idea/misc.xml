@@ -4,7 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.206" />
-        <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/layout/fragment_notif.xml" value="0.1984375" />
+        <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/layout/fragment_person.xml" value="0.1984375" />
+        <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/layout/fragment_search.xml" value="0.1984375" />
+        <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/menu/bottom_nav.xml" value="0.1" />
         <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.1984375" />
       </map>
     </option>
