@@ -9,7 +9,8 @@
     <color name="white">#FFFFFFFF</color>
 
 <!--    custom-->
-    <color name="colorPrimary">#EB5757</color>
-    <color name="colorPrimaryDark">#808080</color>
-    <color name="colorAccent">#ffb6c1</color>
+    <color name="Primary">#EB5757</color>
+    <color name="PrimaryVariant">#5E1111</color>
+    <color name="Secondary">#8CBFDC</color>
+    <color name="list">#FF9F9F</color>
 </resources>
