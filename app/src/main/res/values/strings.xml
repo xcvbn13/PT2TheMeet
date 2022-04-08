@@ -11,5 +11,11 @@
     <string name="notif_fragment">Notif Fragment</string>
     <string name="person_fragment">Person Fragment</string>
     <string name="search_fragment">Search Fragment</string>
+    <string name="style">justStyle</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="nama_pengguna">Imam Yabunaiya</string>
+    <string name="chat">Chat</string>
+    <string name="beli_barang">Beli Barang</string>
+    <string name="jual_barang">Jual Barang</string>
 
 </resources>
