@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/drawable/chat.xml" value="0.206" />
+        <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/drawable/history.xml" value="0.206" />
+        <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/drawable/home.xml" value="0.206" />
         <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.206" />
         <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/drawable/menu.xml" value="0.206" />
         <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/layout/activity_main.xml" value="0.18" />
-        <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/layout/activity_splash_screen.xml" value="0.1628901239846088" />
+        <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/layout/fragment_halaman_pembeli.xml" value="0.1628901239846088" />
+        <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/layout/fragment_home.xml" value="0.16" />
         <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/layout/fragment_notif.xml" value="0.1984375" />
         <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/layout/fragment_person.xml" value="0.1984375" />
         <entry key="..\:/Tugas kuliah/Tahun 2/Proyek Tingkat 2/fjbtelyu/app/src/main/res/layout/fragment_search.xml" value="0.1984375" />

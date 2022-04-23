@@ -17,5 +17,12 @@
     <string name="chat">Chat</string>
     <string name="beli_barang">Beli Barang</string>
     <string name="jual_barang">Jual Barang</string>
+    <string name="message">Message</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="transaksi">Transaksi</string>
+    <string name="histori">Histori</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splashscreen">SplashScreen</string>
 
 </resources>
